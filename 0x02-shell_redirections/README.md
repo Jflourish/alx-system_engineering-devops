@@ -1,1 +1,1 @@
-0x02 shell I/O redirections readme file
+readme file for 2-hellofile
